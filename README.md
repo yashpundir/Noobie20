@@ -22,7 +22,7 @@
 <p align="center">
   <em>
     Hello, I am Yashasvi Pundir a <b>sophomore</b> undergraduate from <a href="https://uiet.puchd.ac.in/"> <b>U.I.E.T, Panjab University</b>, India </a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>, <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>obsessed</b>
     with <b>Data science</b> and always complaining about preparing data.
   </em> 
   <br>
@@ -34,11 +34,11 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 <br>
-✔ I’m currently learning about **Unsupervised & deep learning**<br>
-✔ I’ve been learning **Japanese** for 2 years |いつか日本で働きたいです、日本の文化が好きですから。| 🇯🇵 <br>
+✔ I’m currently learning about <b>Unsupervised & deep learning</b><br>
+✔ I’ve been learning <b>Japanese</b> for 2 years |いつか日本で働きたいです、文化が大好きですから。|🎋 <br>
 ✔ I'm interested in making games with pygame 🕹️👾 <br>
 ✔ I'm learning to play the piano 🎹 <br>
-✔ I’m looking to collaborate with interestin **Data Science & Pygame projects**<br>
+✔ I’m looking to collaborate with interesting <b>Data Science & Pygame projects</b><br>
 <br><br><br><br>
  
 
@@ -47,6 +47,7 @@
   
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+ <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width='100'> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
