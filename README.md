@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Languages-English,%20Hindi,%20Japanese%20%20-brightgreen" />
 </p>
 <br>
-<h3 align="center">Sophomore at U.I.E.T, Panjab University, Chandaigarh | Aspiring Data Scientist </h3>
+<h3 align="center">Senior at U.I.E.T, Panjab University, Chandaigarh | Aspiring Data Scientist </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yashasvi-pundir-46931b19a/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="li_Yash" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/yashpundir" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_Yash" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Yashasvi Pundir a <b>sophomore</b> undergraduate from <a href="https://uiet.puchd.ac.in/"> <b>U.I.E.T, Panjab University</b>, India </a>. <br>
+    Hello, I am Yashasvi Pundir a <b>senior</b> undergraduate from <a href="https://uiet.puchd.ac.in/"> <b>U.I.E.T, Panjab University</b>, India </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> <b>obsessed</b>
     with <b>Data science</b> and always complaining about preparing data.
   </em> 
